@@ -26304,7 +26304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 283.972 214.63 90)
 			(effects
 				(font
@@ -26374,7 +26374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 374.65 176.53 0)
 			(effects
 				(font
@@ -26919,7 +26919,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 279.4 225.298 90)
 			(effects
 				(font
@@ -27062,7 +27062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 294.132 242.57 90)
 			(effects
 				(font
@@ -27334,7 +27334,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 331.47 158.75 0)
 			(effects
 				(font
@@ -27404,7 +27404,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 322.072 177.8 90)
 			(effects
 				(font
@@ -27672,7 +27672,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 304.8 235.458 90)
 			(effects
 				(font
@@ -27700,10 +27700,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e6bde731-add4-4a54-9b95-107054d9443a")
+			(uuid "e6bde731-add4-4a54-9b95-107054d9443b")
 		)
 		(pin "1"
-			(uuid "dd4e3ddd-3558-4d74-845b-00b5155d6c20")
+			(uuid "dd4e3ddd-3558-4d74-845b-00b5155d6c21")
 		)
 		(instances
 			(project "Motherboard"
@@ -27940,7 +27940,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal"
 			(at 307.34 158.75 0)
 			(effects
 				(font
@@ -28161,7 +28161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 283.972 232.41 90)
 			(effects
 				(font
@@ -28621,7 +28621,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 332.232 177.8 90)
 			(effects
 				(font
