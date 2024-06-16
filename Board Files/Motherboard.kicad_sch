@@ -11628,6 +11628,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 271.78) (xy 86.36 278.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "219cad26-188d-4139-b735-1f4a39db0b52")
+	)
+	(wire
+		(pts
 			(xy 246.38 87.63) (xy 257.81 87.63)
 		)
 		(stroke
@@ -12568,6 +12578,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 262.89) (xy 86.36 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ac73c6a-9fda-404d-bde3-bbb32f11f989")
+	)
+	(wire
+		(pts
 			(xy 252.73 35.56) (xy 265.43 35.56)
 		)
 		(stroke
@@ -13448,7 +13468,17 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 255.27) (xy 86.36 264.16)
+			(xy 81.28 262.89) (xy 86.36 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "717e309c-4be6-460e-9e3d-76772b83ea20")
+	)
+	(wire
+		(pts
+			(xy 81.28 262.89) (xy 81.28 264.16)
 		)
 		(stroke
 			(width 0)
@@ -14318,7 +14348,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 269.24) (xy 86.36 278.13)
+			(xy 81.28 269.24) (xy 81.28 271.78)
 		)
 		(stroke
 			(width 0)
@@ -15525,6 +15555,16 @@
 			(type default)
 		)
 		(uuid "cf195007-c63f-4153-927c-6dbc2dacee9b")
+	)
+	(wire
+		(pts
+			(xy 81.28 271.78) (xy 86.36 271.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1089dc0-1f10-41dc-a12f-a10678ddc1a7")
 	)
 	(wire
 		(pts
@@ -23469,7 +23509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 63.5 266.7 0)
 			(effects
 				(font
@@ -26010,7 +26050,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 86.36 266.7 180)
+		(at 81.28 266.7 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26018,7 +26058,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006111742d")
 		(property "Reference" "C29"
-			(at 81.28 265.43 0)
+			(at 76.2 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26026,7 +26066,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 80.01 267.97 0)
+			(at 74.93 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26034,7 +26074,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
-			(at 86.36 266.7 0)
+			(at 81.28 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26043,7 +26083,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 86.36 266.7 0)
+			(at 81.28 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26052,7 +26092,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 266.7 0)
+			(at 81.28 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26510,7 +26550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:BNC_Win_364A2x95_Horizontal"
+		(property "Footprint" "Samacsys:PJRAN1X1U03AUX"
 			(at 88.9 121.92 0)
 			(effects
 				(font
@@ -28091,7 +28131,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:BNC_Win_364A2x95_Horizontal"
+		(property "Footprint" "Samacsys:PJRAN1X1U03AUX"
 			(at 78.74 132.08 0)
 			(effects
 				(font
@@ -28476,7 +28516,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_Coaxial"
+		(property "Value" "Composite"
 			(at 322.58 235.2431 0)
 			(effects
 				(font
@@ -28485,7 +28525,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:BNC_Win_364A2x95_Horizontal"
+		(property "Footprint" "Samacsys:PJRAN1X1U03AUX"
 			(at 318.77 233.68 0)
 			(effects
 				(font
